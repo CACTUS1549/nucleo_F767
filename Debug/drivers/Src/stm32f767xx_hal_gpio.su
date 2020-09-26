@@ -1,0 +1,8 @@
+stm32f767xx_hal_gpio.c:13:6:GPIO_Set_PClk	16	static
+stm32f767xx_hal_gpio.c:90:6:GPIO_Init	16	static
+stm32f767xx_hal_gpio.c:116:6:GPIO_DeInit	16	static
+stm32f767xx_hal_gpio.c:157:6:GPIO_Write_Output_Pin	16	static
+stm32f767xx_hal_gpio.c:171:6:GPIO_Write_Output_Port	16	static
+stm32f767xx_hal_gpio.c:177:6:GPIO_Toggle_Output_Pin	16	static
+stm32f767xx_hal_gpio.c:184:9:GPIO_Read_Output_Pin	24	static
+stm32f767xx_hal_gpio.c:195:10:GPIO_Read_Output_Port	24	static
